@@ -1,0 +1,16 @@
+app
+	header
+		nav-bar
+			about
+			function
+		top-search
+			logo
+			search-bar
+			cart
+	container
+		main-nav
+		items
+			filter
+			img-items
+	footer
+	
